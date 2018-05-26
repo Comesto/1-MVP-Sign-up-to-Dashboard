@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 
 ---
 
-##**Feature name**
+## **Feature name**
 
 **Epic Spec:**
 
